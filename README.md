@@ -1,7 +1,8 @@
 ### Hi there 👋
 I am Goen and I am a curious designer and enjoy observing people. 
 
-For over 10 yrs, I've been finding and solving problems with others in different cultures such as the U.S., China, and South Korea.
+For over 10 yrs, I've been finding and solving problems with others 
+in different cultures such as the U.S., China, and South Korea.
 
 
 <!--
